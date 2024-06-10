@@ -1,0 +1,6 @@
+.vscode
+tmp
+docs/_build
+docs/build
+docs/img/generated
+__pycache__
