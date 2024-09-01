@@ -1,0 +1,11 @@
+Runtime: 0:17:11.093264
+Runtime: 0:17:12.789900
+Runtime: 0:17:11.493583
+Runtime: 0:17:10.411281
+Runtime: 0:17:14.889102
+Runtime: 0:17:12.249585
+Runtime: 0:17:14.152485
+Runtime: 0:17:11.150433
+Runtime: 0:17:10.519460
+Runtime: 0:17:12.840429
+Average performance: 0:17:12.158952
